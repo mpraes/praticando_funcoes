@@ -2,6 +2,8 @@
 
 Meu objetivo consiste em dominar esse tema do python, logo esse repositório é um jeito de eu deixar registrado todas as minhas práticas em funções. Práticas lidas de livros ou cursos e até criações por conta.
 
+A fonte desta prática está no livro Learn Python the Hard Way
+
 ## Como chamar essas funções?
 
 Aprendi que existem muitas maneiras, segue algumas de um exemplo de função que está no script ex19_teoria_conjuntos.py
